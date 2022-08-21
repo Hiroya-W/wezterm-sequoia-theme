@@ -15,7 +15,7 @@ This Sequoia theme for wezterm created and maintained by [Hiroya-W](https://gith
 
 ## Installation for POSIX
 
-Place `sequoia-moonlight.toml` in a directory named `$HOME/.config/wezterm/colors`.
+Place `sequoia-moonlight.toml` and `sequoia-monochrome.toml` in a directory named `$HOME/.config/wezterm/colors`.
 
 Define `color_scheme_dirs` and `color-scheme` in `wezterm.lua`.
 
