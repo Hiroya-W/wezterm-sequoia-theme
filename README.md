@@ -11,6 +11,8 @@ Sequoia theme created by [Michael Andreuzza](https://github.com/michael-andreuzz
 - [Official Website/Color Palettes](https://sequoiatheme.com/)
 - [Sequoia for iTerm](https://github.com/Sequoia-Theme/iTerm)
 
+This Sequoia theme for wezterm created and maintained by [Hiroya-W](https://github.com/Hiroya-W)
+
 ## Installation for POSIX
 
 Place `sequoia-moonlight.toml` in a directory named `$HOME/.config/wezterm/colors`.
@@ -26,3 +28,7 @@ return {
 ```
 
 For a detailed description of custom schemas, please refer to the [wezterm documentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
+
+## Author
+
+[Hiroya-W](https://github.com/Hiroya-W)
