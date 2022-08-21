@@ -1,6 +1,6 @@
-# wezterm-sequoia-moonlight
+# wezterm-sequoia-theme
 
-Sequoia-Moonlight theme for Wezterm.
+Sequoia theme for Wezterm.
 
 <img width="768" alt="wezterm screenshot" src="https://user-images.githubusercontent.com/43127622/185772845-30d29765-04dd-4df0-b192-c40aa96ea51e.png">
 
