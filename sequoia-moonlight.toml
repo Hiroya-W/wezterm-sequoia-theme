@@ -20,3 +20,8 @@ selection_bg = "#22222a"
 
 ansi = ["#131317", "#f58ee0", "#8eb5f5", "#9898a6", "#c58fff", "#fdfdfe", "#ffbb88", "#868690"]
 brights = ["#575861", "#f58ee0", "#8eb5f5", "#9898a6", "#c58fff", "#fdfdfe", "#ffbb88", "#868690"]
+
+[metadata]
+name = "Sequoia Moonlight"
+author = "Hiroya-W and Michael Andreuzza"
+origin_url = "https://github.com/Hiroya-W/wezterm-sequoia-theme"
