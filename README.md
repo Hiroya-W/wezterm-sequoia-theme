@@ -29,6 +29,21 @@ return {
 
 For a detailed description of custom schemas, please refer to the [wezterm documentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
 
+## Installation with nightly build
+
+If you are using the nightly version, the Sequoia theme is included in wezterm. You can use it in the following:
+
+```lua
+return {
+    color_scheme = "Sequoia Moonlight",
+}
+```
+
+Please check the color schemes documentation for details.
+
+- [Color Schemes#sequoia-monochrome](https://wezfurlong.org/wezterm/colorschemes/s/index.html#sequoia-monochrome)
+- [Color Schemes#sequoia-moonlight](https://wezfurlong.org/wezterm/colorschemes/s/index.html#sequoia-moonlight)
+
 ## Author
 
 [Hiroya-W](https://github.com/Hiroya-W)
