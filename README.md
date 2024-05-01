@@ -8,30 +8,16 @@ Sequoia theme for Wezterm.
 
 Sequoia theme created by [Michael Andreuzza](https://github.com/michael-andreuzza).
 
-- [Official Website/Color Palettes](https://sequoiatheme.com/)
+- [Official Website](https://www.michaelandreuzza.com/vscode/sequoia/)
 - [Sequoia for iTerm](https://github.com/Sequoia-Theme/iTerm)
 
 This Sequoia theme for wezterm created and maintained by [Hiroya-W](https://github.com/Hiroya-W)
 
-## Installation for POSIX
-
-Place `sequoia-moonlight.toml` and `sequoia-monochrome.toml` in a directory named `$HOME/.config/wezterm/colors`.
-
-Define `color_scheme_dirs` and `color-scheme` in `wezterm.lua`.
-
-```lua
--- wezterm.lua
-return {
-    color_scheme_dirs = { "$HOME/.config/wezterm/colors/" },
-    color_scheme = "sequoia-moonlight",
-}
-```
-
 For a detailed description of custom schemas, please refer to the [wezterm documentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
 
-## Installation with nightly build
+## Installation
 
-If you are using the nightly version, the Sequoia theme is included in wezterm. You can use it in the following:
+The Sequoia theme is included in wezterm. You can use it in the following:
 
 ```lua
 return {
